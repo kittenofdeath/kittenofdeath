@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Marcus H
+competent in this and that
 <!--
 **kittenofdeath/kittenofdeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenofdeath)
+[![GitHub Game of Life](https://github4life.herokuapp.com/kittenofdeath.gif?z=6)](https://github4life.herokuapp.com/kittenofdeath)
+-->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kittenofdeath&show_icons=true&theme=gruvbox)
